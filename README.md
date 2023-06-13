@@ -1,5 +1,6 @@
 # Mining_Project
 Frequent itemsets mining 
 
-this repository contains the colab notebook with the code for my mining project.
-the project is an important part of the exam, remember to control everything!!
+I perform an empirical analysis on the Runtime of three important Frequent Itemset Mining Algorithms: Apriori, Eclat and FP-Growth
+
+I used the Dataset Generator created by Jeff Heaton to generate a dataset with the desirable characteristics
