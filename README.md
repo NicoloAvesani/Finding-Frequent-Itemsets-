@@ -1,4 +1,4 @@
-# Mining_Project
+# Mining_Project_2023
 Frequent itemsets mining 
 
 I perform an empirical analysis on the Runtime of three important Frequent Itemset Mining Algorithms: Apriori, Eclat and FP-Growth
